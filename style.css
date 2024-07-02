@@ -11463,10 +11463,10 @@ display: none;
                       @media (min-width: 400px) and (max-width: 420px) {
                         iframe {
                           position: relative;
-                          bottom: 380px !important;
+                          bottom: 420px !important;
                         }
                          .section5{
-                          height: 340px !important;
+                          height: 300px !important;
                          }
 
                       }
@@ -12163,7 +12163,7 @@ display: none;
     @media screen and (min-width: 320px) and (max-width: 420px) {
       iframe {
         position: relative;
-        bottom: 400px !important;
+        bottom: 300px !important;
         height: 430px;
     }
     .copy{
@@ -12251,7 +12251,7 @@ display: none;
         border-bottom: 3px solid white; /* Adjust the shadow as needed */
       }
       .section5 {
-        height: 80px !important;
+        height: 90px !important;
         position: relative;
     }
       .rec219 {
